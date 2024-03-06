@@ -6,11 +6,7 @@ import java.util.Hashtable;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * FPT don't like hashMap, neither do i like a bunch of warning
- *
- * @author Mazl
- */
+
 public class FruitShop {
 
     private ArrayList<Fruit> fruits = new ArrayList<>();
