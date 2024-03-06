@@ -1,9 +1,6 @@
 package Model;
 
-/**
- *
- * @author Mazl
- */
+
 public class Fruit {
 
     private int fruitId;
