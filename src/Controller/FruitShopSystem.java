@@ -6,10 +6,7 @@ import java.util.Scanner;
 import Model.FruitShop;
 import java.util.ArrayList;
 
-/**
- *
- * @author Mazl
- */
+
 public class FruitShopSystem {
 
     Scanner sc;
